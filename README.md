@@ -1,2 +1,2 @@
-# karan-soft
+# Amazon_Clone
 This is my first repository.
